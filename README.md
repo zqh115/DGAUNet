@@ -1,4 +1,4 @@
 # DGAUNet dual-stream mask guided attention U-Net
 model：
-![image](image/图片4.png)
+![image](images/1.png)
 # DGAUNet
