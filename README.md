@@ -12,14 +12,17 @@ Please put the GCPS dataset as the following architecture.
 ├── data
     ├── GCPS
         ├── images
-        |   ├── 1.png
-        │   ├── 2.png
-        │   ├── ...
+        |       ├── 0
+        |           ├── 1.png
+        |           ├── 2.png
+        |           ├── ...
         |
-        └── masks
-        |   ├── 1.png
-        |   ├── 2.png
-        |   ├── ...
+        ├── masks
+        |       ├── 0
+        |           ├── 1.png
+        |           ├── 2.png
+        |           ├── ...
+        |
 ├── src
 ├── train.py
 ├── split.py
