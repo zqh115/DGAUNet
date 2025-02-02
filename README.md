@@ -32,7 +32,7 @@ Please put the GCPS dataset as the following architecture.
 ├── split.py
 ├── ...
 ```
-#Training
+# Training
 ```
 python DGAUNet_train.py --base_dir ./data/GCPS --train_file_dir GCPS_train.txt --val_file_dir GCPS_val.txt --base_lr 0.01 --epoch 150 --batch_size 8
 ```
