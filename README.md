@@ -37,6 +37,8 @@ Please put the GCPS dataset as the following architecture.
 python DGAUNet_train.py --base_dir ./data/GCPS --train_file_dir GCPS_train.txt --val_file_dir GCPS_val.txt --base_lr 0.01 --epoch 150 --batch_size 8
 ```
 
+[You can also download pre-trained models here](https://drive.google.com/file/d/1ZQG1xyhSDFzOGvRwYggFMuNc9Z4qfydd/view?usp=drive_link)
+
 # Contact
 If you have any questions about the code or data set permissions, please contact me:zhangqinghua869@gmail.com
 
