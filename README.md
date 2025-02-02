@@ -10,7 +10,7 @@ The proposed attention gate for the connections between encoder and decoder：
 * Pytorch 2.2.1
 * GPU RTX2080Ti
 # Datasets
-Here we provide our own created [GCPS]([https://pages.github.com/](https://drive.google.com/file/d/1PPYcOj6QDtPRyXX9JVYVl_kJaXYksBI-/view?usp=drive_link))dataset for model training.
+Here we provide our own created [GCPS](https://drive.google.com/file/d/1PPYcOj6QDtPRyXX9JVYVl_kJaXYksBI-/view?usp=drive_link))dataset for model training.
 Please put the GCPS dataset as the following architecture.
 ```
 ├── data
