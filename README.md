@@ -1,6 +1,10 @@
 # DGAUNet dual-stream mask guided attention U-Net
-model：
+Conceptual architectures comparisons between DGAUNet and conventional UNet:
+![image](images/2.png)
+DGAUNet：
 ![image](images/1.png)
+The proposed attention gate for the connections between encoder and decoder：
+![image](images/3.png)
 # Environments
 * Python 3.9
 * Pytorch 2.2.1
