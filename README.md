@@ -1,5 +1,6 @@
 # DGAUNet dual-stream mask guided attention U-Net
 The paper ["Towards Gastric Cancer Pathological Segmentation: A Large-Scale Whole-Slide Image Dataset and Dual-Stream Mask-Guided Attention U-Net"](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009097) has been published.
+
 Conceptual architectures comparisons between DGAUNet and conventional UNet:
 ![image](images/2.png)
 DGAUNet：
